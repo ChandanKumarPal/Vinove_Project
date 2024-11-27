@@ -50,13 +50,6 @@ The app allows you to:
 	4.	Run the project on an Android device or emulator.
     NOTE : Make sure that you have installed the flutter and dart in your system.
 
- ## SCREENSHOTS
-   1. ![image](https://github.com/user-attachments/assets/0a35d087-c9e1-4fc5-a71f-e8de5fbe792f)
-   2. ![image](https://github.com/user-attachments/assets/00ae6069-bed0-431c-a4e1-47da3dbdf647)
-   3. ![image](https://github.com/user-attachments/assets/68698709-004c-469b-adbc-b3a3732f7292)
-   4. ![image](https://github.com/user-attachments/assets/48ea81f1-8a0f-4699-a620-c2b450bcacec)
-   5. ![image](https://github.com/user-attachments/assets/6d1cdcb3-4da9-43d8-8808-670414636054)
-   6. ![image](https://github.com/user-attachments/assets/0f191295-c0b7-421f-bbbd-bbbec3da5ba3)
 
 ```
 FOR INSTALLATION OF FLUTTER AND DART IN ANDROID STUDIO REFER - https://youtu.be/BqHOtlh3Dd4?si=TsazyUifsAXCVEAJ
