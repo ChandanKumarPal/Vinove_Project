@@ -7,6 +7,8 @@ The app allows you to:
 3. Display attendance and check-in and check-out reports.
 4. View location history with route details including start/stop locations, total distance traveled, and duration.
 
+## Note: This Project is made for Vinove Software.
+
 ## Features
 - *Member List*: View members with the option to track their location or check attendance.
 - *Location Tracking*: Displays current location and route on Google Maps.
