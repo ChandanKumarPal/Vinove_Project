@@ -9,27 +9,27 @@ class MemberScreen extends StatelessWidget {
   // Example member data with LatLng and attendance list
   final List<Member> members = [
     Member(
-      name: "SHIFA SHEIKH",
+      name: "AMAN RAWAT",
       currentLocation: LatLng(37.42796133580664, -122.085749655962),
       attendance: [], // Empty attendance list
     ),
     Member(
-      name: "SUSEN JAYSWAL",
+      name: "BITTU SAURABH",
       currentLocation: LatLng(37.42996133580664, -122.083749655962),
       attendance: [], // Empty attendance list
     ),
     Member(
-      name: "ADARSH GUPTA",
+      name: "CHANDAN KUMAR PAL",
       currentLocation: LatLng(37.42696133580664, -122.080749655962),
       attendance: [], // Empty attendance list
     ),
     Member(
-      name: "UDAY GUPTA",
+      name: "GAUTAM BHATT",
       currentLocation: LatLng(37.42696133580664, -122.080749655962),
       attendance: [], // Empty attendance list
     ),
     Member(
-      name: "SAKSHAM ARYA",
+      name: "TEST 1",
       currentLocation: LatLng(37.42696133580664, -122.080749655962),
       attendance: [], // Empty attendance list
     ),
